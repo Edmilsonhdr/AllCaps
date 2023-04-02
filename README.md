@@ -1,4 +1,4 @@
-# AllCaps
+# AllCaps - EXTENSÃO PARA O GOOGLE CHROME
 
 A extensão AllCaps é uma ferramenta simples e fácil de usar que permite converter rapidamente qualquer texto em letras maiúsculas. Ao copiar o texto que deseja converter, basta colá-lo na caixa de texto da extensão e clicar em "Converter". O texto será então retornado em caixa alta, tornando-o mais legível e fácil de ler.
 
