@@ -1,0 +1,2 @@
+# AllCaps
+A extensão AllCap
